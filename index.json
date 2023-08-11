@@ -1,7 +1,4 @@
 {
-    "com.MyronSoftware.Deisim": {
-        "1.35": "2020.3.25f1"
-    },
     "com.AnotherAxiom.GorillaTag": {
         "1.0.2": "2019.3.15f1_GT",
         "1.0.3": "2019.3.15f1_GT",
@@ -109,7 +106,7 @@
     "com.schellgames.ieytd2": {
         "1.0.0.171176 (ReleaseCandidate_1.0.1_QuestStore)": "2019.4.18f1"
     },
-    "com.schellgames.untilyoufall": {
-        "1.2.0.174045 (Release_1.2.0)": "2019.3.15f1_64"
+    "com.LuWiGames.MonkeysPlaceV2": {
+        "2.2": "2020.3.48f1"
     }
 }
